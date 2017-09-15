@@ -271,6 +271,9 @@
                             <constraint firstItem="roV-mj-9Xz" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="hxR-h4-GVY"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="scrollView" destination="roV-mj-9Xz" id="5Pa-2V-6FH"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
